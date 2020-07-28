@@ -13,7 +13,7 @@
 (https://github.com/abhibasu/publications/blob/master/high-performance-xeon-e5-genome-analysis-study.pdf)
 
 6.	Real-time Healthcare Analytics on Apache Hadoop using Spark and Shark: Illustrates in-memory SQL-on-Hadoop tools like Shark being used for real-time healthcare analytics.
-(http://www.intel.com/content/dam/www/public/us/en/documents/white-papers/big-data-real-time-healthcare-analytics-whitepaper.pdf)
+(https://github.com/abhibasu/publications/blob/master/big-data-real-time-healthcare-analytics-whitepaper.pdf)
 
 7.	Gene Resequencing with Myrna on Intel Distribution of Hadoop: Describes installation of Myrna software on a Hadoop cluster for calculating differential gene expression. (http://www.intel.com/content/dam/www/public/us/en/documents/reports/gene-resequencing-with-myrna-distribution-hadoop.pdf)
 
