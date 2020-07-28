@@ -20,3 +20,9 @@
 8.	Running Genome Sequencing Applications on Intel Hadoop Distribution: Describes installation of Crossbow software run on a Hadoop cluster for genome resequencing analysis. (http://www.intel.com/content/dam/www/public/us/en/documents/reports/genome-resequencing-with-crossbow-report.pdf)
 
 9. Simulation of Medical Device Network Performance and Requirements for An Integrated Clinical Environment published in AAMI BI&T journal, Aug 2012. (https://github.com/abhibasu/publications/blob/master/BIT_Simulation_Research_JulyAug2012.pdf) 
+
+10. My Data Analytics Journey at Cox Automotive, 2020. (https://github.com/abhibasu/publications/blob/master/My%20Data%20Analytics%20Journey%20at%20Cox%20Automotive.pdf) 
+
+11. Building a Simple Prediction Model with Unified Leads and Transactions Data, 2020. (https://github.com/abhibasu/publications/blob/master/Building%20a%20Simple%20Prediction%20Model%20with%20Unified%20Leads%20and%20Transactions%20Data.pdf) 
+
+12. Why Are Leads Lost?, 2020. (https://github.com/abhibasu/publications/blob/master/Why%20Are%20Leads%20Lost.pdf) 
