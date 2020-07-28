@@ -5,7 +5,7 @@
 
 2.	Genome-wide Association Test on Intel Reference Architecture – A Scaling Study: Demonstrates the scalability of Intel Reference Architecture in the compute of millions of SNPs when various public datasets. (https://github.com/abhibasu/publications/blob/master/genome-wide-association-test-on-intel-reference-architecture-study%20(1).pdf)
 
-3.	Installing Apache Zeppelin on Cloudera Hadoop Distribution (https://github.com/abhibasu/publications/blob/master/Apache-Zeppelin.pdf)
+3.	Installing Apache Zeppelin on Cloudera Hadoop Distribution, 2015. (https://github.com/abhibasu/publications/blob/master/Apache-Zeppelin.pdf)
 
 4.	Statistical Analysis of Genome Sequencing Data with Intel Reference Architecture, 2015. (https://github.com/abhibasu/publications/blob/master/statistical-analysis-genome-sequencing-paper.pdf)
 
