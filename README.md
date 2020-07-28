@@ -7,10 +7,10 @@
 
 3.	Installing Apache Zeppelin on Cloudera Hadoop Distribution (https://github.com/abhibasu/publications/blob/master/Apache-Zeppelin.pdf)
 
-4.	Statistical Analysis of Genome Sequencing Data with Intel Reference Architecture (http://www.intel.com/content/www/us/en/healthcare-it/statistical-analysis-genome-sequencing-paper.html)
+4.	Statistical Analysis of Genome Sequencing Data with Intel Reference Architecture (https://github.com/abhibasu/publications/blob/master/statistical-analysis-genome-sequencing-paper.pdf)
 
 5.	Accelerating Secondary Genome Analysis using Intel Big Data Reference Architecture: Demonstrates Big Data technologies being used to accelerate traditional HPC problems like genome analysis.
-(http://www.intel.com/content/www/us/en/high-performance-computing/high-performance-xeon-e5-genome-analysis-study.html)
+(https://github.com/abhibasu/publications/blob/master/high-performance-xeon-e5-genome-analysis-study.pdf)
 
 6.	Real-time Healthcare Analytics on Apache Hadoop using Spark and Shark: Illustrates in-memory SQL-on-Hadoop tools like Shark being used for real-time healthcare analytics.
 (http://www.intel.com/content/dam/www/public/us/en/documents/white-papers/big-data-real-time-healthcare-analytics-whitepaper.pdf)
