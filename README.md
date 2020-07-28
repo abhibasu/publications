@@ -19,4 +19,4 @@
 
 8.	Running Genome Sequencing Applications on Intel Hadoop Distribution: Describes installation of Crossbow software run on a Hadoop cluster for genome resequencing analysis. (http://www.intel.com/content/dam/www/public/us/en/documents/reports/genome-resequencing-with-crossbow-report.pdf)
 
-9. Simulation of Medical Device Network Performance and Requirements for An Integrated Clinical Environment published in AAMI BI&T journal, Aug 2012. (http://www.mdpnp.org/uploads/BIT_Simulation_Research_JulyAug2012.pdf) 
+9. Simulation of Medical Device Network Performance and Requirements for An Integrated Clinical Environment published in AAMI BI&T journal, Aug 2012. (https://github.com/abhibasu/publications/blob/master/BIT_Simulation_Research_JulyAug2012.pdf) 
