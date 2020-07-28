@@ -1,4 +1,4 @@
-#Publications Page
+### Publications Page
 
 
 1. My Data Analytics Journey at Cox Automotive, 2020. (https://github.com/abhibasu/publications/blob/master/My%20Data%20Analytics%20Journey%20at%20Cox%20Automotive.pdf)
