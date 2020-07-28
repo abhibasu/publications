@@ -7,7 +7,7 @@
 
 3.	Installing Apache Zeppelin on Cloudera Hadoop Distribution (https://github.com/abhibasu/publications/blob/master/Apache-Zeppelin.pdf)
 
-4.	Statistical Analysis of Genome Sequencing Data with Intel Reference Architecture (https://github.com/abhibasu/publications/blob/master/statistical-analysis-genome-sequencing-paper.pdf)
+4.	Statistical Analysis of Genome Sequencing Data with Intel Reference Architecture, 2015. (https://github.com/abhibasu/publications/blob/master/statistical-analysis-genome-sequencing-paper.pdf)
 
 5.	Accelerating Secondary Genome Analysis using Intel Big Data Reference Architecture: Demonstrates Big Data technologies being used to accelerate traditional HPC problems like genome analysis, 2014.
 (https://github.com/abhibasu/publications/blob/master/high-performance-xeon-e5-genome-analysis-study.pdf)
