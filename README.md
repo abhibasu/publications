@@ -9,10 +9,10 @@
 
 4.	Statistical Analysis of Genome Sequencing Data with Intel Reference Architecture (https://github.com/abhibasu/publications/blob/master/statistical-analysis-genome-sequencing-paper.pdf)
 
-5.	Accelerating Secondary Genome Analysis using Intel Big Data Reference Architecture: Demonstrates Big Data technologies being used to accelerate traditional HPC problems like genome analysis.
+5.	Accelerating Secondary Genome Analysis using Intel Big Data Reference Architecture: Demonstrates Big Data technologies being used to accelerate traditional HPC problems like genome analysis, 2014.
 (https://github.com/abhibasu/publications/blob/master/high-performance-xeon-e5-genome-analysis-study.pdf)
 
-6.	Real-time Healthcare Analytics on Apache Hadoop using Spark and Shark: Illustrates in-memory SQL-on-Hadoop tools like Shark being used for real-time healthcare analytics.
+6.	Real-time Healthcare Analytics on Apache Hadoop using Spark and Shark: Illustrates in-memory SQL-on-Hadoop tools like Shark being used for real-time healthcare analytics, 2014. 
 (https://github.com/abhibasu/publications/blob/master/big-data-real-time-healthcare-analytics-whitepaper.pdf)
 
 7.	Gene Resequencing with Myrna on Intel Distribution of Hadoop: Describes installation of Myrna software on a Hadoop cluster for calculating differential gene expression, 2013. (https://github.com/abhibasu/publications/blob/master/gene-resequencing-with-myrna-distribution-hadoop.pdf)
