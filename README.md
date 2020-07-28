@@ -15,7 +15,7 @@
 6.	Real-time Healthcare Analytics on Apache Hadoop using Spark and Shark: Illustrates in-memory SQL-on-Hadoop tools like Shark being used for real-time healthcare analytics.
 (https://github.com/abhibasu/publications/blob/master/big-data-real-time-healthcare-analytics-whitepaper.pdf)
 
-7.	Gene Resequencing with Myrna on Intel Distribution of Hadoop: Describes installation of Myrna software on a Hadoop cluster for calculating differential gene expression. (http://www.intel.com/content/dam/www/public/us/en/documents/reports/gene-resequencing-with-myrna-distribution-hadoop.pdf)
+7.	Gene Resequencing with Myrna on Intel Distribution of Hadoop: Describes installation of Myrna software on a Hadoop cluster for calculating differential gene expression. (https://github.com/abhibasu/publications/blob/master/gene-resequencing-with-myrna-distribution-hadoop.pdf)
 
 8.	Running Genome Sequencing Applications on Intel Hadoop Distribution: Describes installation of Crossbow software run on a Hadoop cluster for genome resequencing analysis. (http://www.intel.com/content/dam/www/public/us/en/documents/reports/genome-resequencing-with-crossbow-report.pdf)
 
