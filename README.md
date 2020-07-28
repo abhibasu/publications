@@ -1,7 +1,7 @@
 ##Publications Page
 
 
-1.	Indexing DICOM Images on Cloudera Hadoop Distribution – Enabling organizations to collocate medical imaging data closer to other data sources on the Hadoop cluster. (https://software.intel.com/sites/default/files/managed/4c/21/Indexing%20DICOM%20Images%20on%20CDH%20v0%201%2000.pdf)
+1.	Indexing DICOM Images on Cloudera Hadoop Distribution – Enabling organizations to collocate medical imaging data closer to other data sources on the Hadoop cluster. (https://github.com/abhibasu/publications/blob/master/Indexing%20DICOM%20Images%20on%20CDH%20v0%201%2000.pdf)
 
 2.	Genome-wide Association Test on Intel Reference Architecture – A Scaling Study: Demonstrates the scalability of Intel Reference Architecture in the compute of millions of SNPs when various public datasets. (http://www.intel.com/content/www/us/en/healthcare-it/genome-wide-association-test-on-intel-reference-architecture-study.html)
 
